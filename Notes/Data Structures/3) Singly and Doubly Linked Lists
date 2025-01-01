@@ -1,0 +1,50 @@
+Singly and Doubly Linked Lists - 01/01/2025
+
+A linked list is a sequential list of nodes that hold data which point
+to other nodes also containing data.
+
+Where are linked lists used?
+
+1) Used in many List, Queue and Stack implementations.
+
+2) Great for creating circular lists.
+
+3) Can easily model real world objects such as trains.
+
+4) Used in separate chaning which is present in certain Hashtable implementations to
+deal with hashing collisions.
+
+5) Often used in the implementation of adjacency lists for graphs.
+
+
+Terminology:
+
+Head = The first node in a linked list.
+
+Tail = The last node in a linked list.
+
+Pointer = Reference to another node.
+
+Node: An object containing data and pointer(s).
+
+
+-
+
+Singly vs Doubly Linked Lists
+
+Singly linked lists contain 1 pointer to the next node.
+
+Doubly linked lists contain 2 pointers;
+
+1) Pointer to the next node.
+2) Pointer to the previous node.
+
+
+Pros and Cons:
+
+Singly - Uses less memory, simpler implementation BUT cannot access previous elements easily.
+
+Doubly - Can be traversed backwards BUT takes 2x memory.
+
+
+Rest of the studies regarding linked lists have been done on paper.

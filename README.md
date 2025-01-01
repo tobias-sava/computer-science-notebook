@@ -8,7 +8,7 @@ This digital notebook is dedicated to documenting my journey learning CS.
 Resources used:
 
 Books
-- Introduction to Algorithms by Thomas H. and Data Structures
+- Introduction to Algorithms and Data Structures by Thomas H.
 - Algorithms in Python by Robert Lafore, Alan Broder and John Canning
 
 youtube.com
