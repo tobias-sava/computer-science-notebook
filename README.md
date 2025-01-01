@@ -4,6 +4,7 @@ Created on 01/01/2025
 
 This digital notebook is dedicated to documenting my journey learning CS.
 
+
 Resources used:
 
 Books
@@ -20,5 +21,12 @@ stackoverflow.com
 
 ChatGPT / Claude AI
 - Note: I've been learning so much more since I have started putting thought into the way I create prompts.
+
+
+
+Personal notes:
+
+- 01/01/2025 - I am super excited to dive deeper into CS. The feeling of actively learning and understanding is incomparable.
+
 
 
