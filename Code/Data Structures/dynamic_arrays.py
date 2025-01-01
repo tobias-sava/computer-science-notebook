@@ -25,12 +25,12 @@ print(dynamic_array)  # output: [10, 20]
 
 class DynamicArray:
     def __init__(self):
-        self.array = [None] * 1  # startubg with an array of size 1
+        self.array = [None] * 1  # starting with an array of size 1
         self.size = 0           # number of elements in the array
         self.capacity = 1       # total capacity of the array
 
     def append(self, value):
-        if self.size == self.capacity:  # checkubg if resizing is needed
+        if self.size == self.capacity:  # checking if resizing is needed
             self._resize(self.capacity * 2)
         self.array[self.size] = value
         self.size += 1
