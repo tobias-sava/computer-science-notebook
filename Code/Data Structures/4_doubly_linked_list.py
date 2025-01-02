@@ -17,7 +17,7 @@ class DoublyLinkedList:
         if not self.head: # if the list is empty
             self.head = new_node
             return
-        current = self.headw
+        current = self.head
         while current.next: # traversing to the end
             current = current.next # going to next node
         current.next = new_node
