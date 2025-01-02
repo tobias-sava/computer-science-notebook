@@ -68,4 +68,4 @@ linked_list.append(30)
 linked_list.prepend(5)
 linked_list.display()  # output: 5 <-> 10 <-> 20 <-> 30 <-> None
 linked_list.delete(20)
-linked_list.display()  # output: 5 <-> 10 <-> 30 <-> None
+linked_list.display()  # output: 5 <-> 10 <-> 30 <-> None 
