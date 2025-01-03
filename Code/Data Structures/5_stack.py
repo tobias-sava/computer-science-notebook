@@ -35,7 +35,7 @@ class Stack:
     def size(self):
         return len(self.items)
 
-# create a stack instance
+# creating a stack instance
 stack = Stack()
 
 # example usage
