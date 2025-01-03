@@ -1,14 +1,14 @@
 # computer-science-notebook
 
-Created on 01/01/2025
-
 
 
 <h1>This digital notebook is dedicated to documenting my journey learning CS.</h1>
 
 
+Created on 01/01/2025
 
-Resources used:
+
+<h3>Resources used:</h3>
 
 - Books:
 Introduction to Algorithms and Data Structures by Thomas H.
