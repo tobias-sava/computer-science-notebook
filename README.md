@@ -24,8 +24,3 @@ Computer Science Career Path (https://www.codecademy.com/career-journey/computer
 
 - ChatGPT / Claude AI
 Extremely powerful tools especially since refining my prompting skills.
-
-
-- Personal notes:
-
-- 01/01/2025 - I am super excited to dive deeper into CS. The feeling of actively learning and understanding is incomparable.

@@ -1,4 +1,4 @@
-Stacks - 01/01/2025
+Stacks - 02/01/2025
 
 A stack is a one-ended liner data structure which models a real world
 stack by having two primary operations, namely push and pop.
@@ -22,15 +22,9 @@ previous function calls.
 
 -
 
-Note: Watch out for memory leaks in lower level languages, memory must be managed with 
+Note: Watch out for memory leaks in lower level languages, memory must be managed with
 every action. This goes for every data structure of course.
 
 Example: .pop()'ing a stack.
 
 Rest done on paper, this structure was quite easy to understand and replicate.
-
-
-
-
-
- 
