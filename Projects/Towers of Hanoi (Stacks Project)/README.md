@@ -10,6 +10,7 @@
 
 <h2>Rules</h2>
 To solve the puzzle:
+
 1. Move the entire stack of disks from the starting rod to a target rod
 2. Only one disk can be moved at a time
 3. No larger disk may be placed on top of a smaller disk
