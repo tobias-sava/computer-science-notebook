@@ -53,3 +53,6 @@ class Stack:
       pointer = pointer.get_next_node()
     print_list.reverse()
     print("{0} Stack: {1}".format(self.get_name(), print_list))
+
+
+# github.com/tobias-sava
