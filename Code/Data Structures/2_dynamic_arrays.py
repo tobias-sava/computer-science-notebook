@@ -68,4 +68,3 @@ print(dynamic_array)  # output: [10, 20, 30]
 
 dynamic_array.pop()
 print(dynamic_array)  # output: [10, 20]
-
