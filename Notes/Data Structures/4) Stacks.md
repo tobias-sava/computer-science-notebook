@@ -20,7 +20,7 @@ previous function calls.
     - Can be done manually.
     - Can be done using recursion.
 
--
+
 
 Note: Watch out for memory leaks in lower level languages, memory must be managed with
 every action. This goes for every data structure of course.
