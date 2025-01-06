@@ -27,7 +27,6 @@ Pointer = Reference to another node.
 
 Node: An object containing data and pointer(s).
 
-
 -
 
 Singly vs Doubly Linked Lists
@@ -128,5 +127,31 @@ Update the surrounding nodes’ pointers.
     Update the surrounding nodes' prev and next pointers to bypass the target node.
 
 -
+
+Complexity
+
+// Singly Linked List
+add_next_node: O(1)      // Adding after current node
+add_head: O(1)          // Adding at beginning
+add_tail: O(n)          // Adding at end (need to traverse)
+remove_next: O(1)       // Removing after current node  
+remove_head: O(1)       // Removing first node
+remove_tail: O(n)       // Removing last node (need to traverse)
+search: O(n)            // Finding a value
+get_size: O(1)         // Getting list size
+is_empty: O(1)         // Checking if empty
+
+// Doubly Linked List  
+add_next_node: O(1)     // Adding after current node
+add_prev_node: O(1)     // Adding before current node
+add_head: O(1)         // Adding at beginning
+add_tail: O(1)         // Adding at end (have tail pointer)
+remove_node: O(1)      // Removing current node
+remove_head: O(1)      // Removing first node
+remove_tail: O(1)      // Removing last node
+search: O(n)           // Finding a value
+get_size: O(1)        // Getting list size
+is_empty: O(1)        // Checking if empty
+
 
 Rest of the studies regarding linked lists have been done on paper.

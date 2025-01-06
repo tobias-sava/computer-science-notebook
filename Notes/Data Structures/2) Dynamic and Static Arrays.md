@@ -121,7 +121,29 @@ Example of a dynamic array in CPP:
     }
 
 
+-
 
+Complexity
+
+// Static Array
+Access: O(1)         // Getting/setting element at index
+Search: O(n)         // Finding element in array
+Traverse: O(n)       // Going through all elements
+Length: O(1)         // Getting array size
+Insert: N/A          // Cannot insert in static array
+Remove: N/A          // Cannot remove from static array
+
+// Dynamic Array
+Access: O(1)         // Getting/setting element at index
+Search: O(n)         // Finding element in array
+Traverse: O(n)       // Going through all elements
+Length: O(1)         // Getting array size
+Append: O(1)*        // Adding to end of array
+Insert: O(n)         // Adding at specific position
+Remove: O(n)         // Removing element
+Clear: O(1)          // Removing all elements
+
+*Amortized O(1) - occasional O(n) when resizing
 
 
 

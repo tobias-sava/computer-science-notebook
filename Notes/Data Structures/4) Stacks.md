@@ -21,10 +21,19 @@ previous function calls.
     - Can be done using recursion.
 
 
-
 Note: Watch out for memory leaks in lower level languages, memory must be managed with
 every action. This goes for every data structure of course.
 
 Example: .pop()'ing a stack.
 
 Rest done on paper, this structure was quite easy to understand and replicate.
+
+-
+
+Push: O(1)       // Adding to top of stack
+Pop: O(1)        // Removing from top of stack 
+Peek: O(1)       // Looking at top element
+Contains: O(n)   // Searching through stack
+Length: O(1)     // Getting size of stack
+IsEmpty: O(1)    // Checking if stack is empty 
+Clear: O(1)      // Removing all elements
